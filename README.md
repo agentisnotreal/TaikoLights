@@ -7,8 +7,8 @@ This code uses **Control Type 2** from Taiko no Tatsujin: Drum 'n' Fun & Taiko n
 On the Nintendo Switch Pro Controller:
 | Buttons            | Colour |
 |--------------------|--------|
-| A, B, X, Y | D-Pad | Red    |
-| L, R | ZL, ZR      | Blue   |
+| A, B, X, Y,  D-Pad | Red    |
+| L, R, ZL, ZR      | Blue   |
 
 ## Prerequisites
 - Corsair iCUE
