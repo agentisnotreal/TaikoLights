@@ -18,3 +18,7 @@ On the Nintendo Switch Pro Controller:
 You'll need the following dependencies to build:
 - [iCUE SDK](https://github.com/CorsairOfficial/cue-sdk)
 - [SDL2](https://github.com/libsdl-org/SDL)
+
+## In Action
+https://github.com/agentisnotreal/TaikoLights/assets/55689844/1beb8877-77c1-4b29-85a7-a237578ae20f
+
